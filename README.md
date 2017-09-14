@@ -18,20 +18,19 @@ Kathy Zhao: A new master student!
 
    + Golden Retriver
      * Reason: 
-    
-    ![](https://media.tenor.com/images/0403771d377938e7307a129b99cf0a3b/tenor.gif)
+ ![](https://media.tenor.com/images/0403771d377938e7307a129b99cf0a3b/tenor.gif)
     + Yorkshire Terrier
      * Reason:
     
-    ![](https://68.media.tumblr.com/26166f7215d0bcad8eda2a2049fbf266/tumblr_ms98y4SHat1r1mr1po1_500.gif)
+![](https://68.media.tumblr.com/26166f7215d0bcad8eda2a2049fbf266/tumblr_ms98y4SHat1r1mr1po1_500.gif)
     + Bichon Frise
       * Reason:
     
-    ![](http://www.gifbin.com/bin/012012/1327602286_cute_bichon_frise_puppy.gif)
+![](http://www.gifbin.com/bin/012012/1327602286_cute_bichon_frise_puppy.gif)
     + Chow chow
       * Reason:
     
-    ![](http://31.media.tumblr.com/2194be83fdf928a137ac50b1d54aa052/tumblr_mwcq6jzESP1smk5jxo1_400.gif)
+![](http://31.media.tumblr.com/2194be83fdf928a137ac50b1d54aa052/tumblr_mwcq6jzESP1smk5jxo1_400.gif)
     
 ####- Movies
 
