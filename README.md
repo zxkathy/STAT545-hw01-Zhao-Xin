@@ -15,6 +15,7 @@ Kathy Zhao: A new master student!
 
 ## What Do I like?
 ####- Puppies
+
    + Golden Retriver
      * Reason: 
     
@@ -33,6 +34,7 @@ Kathy Zhao: A new master student!
     ![](http://31.media.tumblr.com/2194be83fdf928a137ac50b1d54aa052/tumblr_mwcq6jzESP1smk5jxo1_400.gif)
     
 ####- Movies
+
   + Kathy's recommended movies:
     * Batman
     * Dispicable me
