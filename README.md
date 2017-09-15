@@ -19,18 +19,21 @@ Kathy Zhao: *A new master student!*
   + Yorkshire Terrier
   
   <img src="https://68.media.tumblr.com/26166f7215d0bcad8eda2a2049fbf266/tumblr_ms98y4SHat1r1mr1po1_500.gif" width="200">
+  
   <span style="color:#98f5ff">(Obtained from tumblr.com, link [here](https://www.tumblr.com/search/yorkie-gif))</span>
   
   + Bichon Frise
   
   <img src="http://www.gifbin.com/bin/012012/1327602286_cute_bichon_frise_puppy.gif" width="200">
+  
   <span style="color:#98f5ff">(Obtained from gifbin.com, link [here](http://www.gifbin.com/986292))</span>
 
 - #### Movies
 
-  + Kathy's recommended movies:
-  
++ Kathy's recommended movies:
+
     * Batman
+    
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3FioOhQWHrg" frameborder="0" allowfullscreen></iframe>
 </div>
