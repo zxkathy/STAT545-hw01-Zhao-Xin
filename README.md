@@ -5,7 +5,7 @@ Welcome to my repo! Hope you enjoy it!
 ## Who Am I?
 Kathy Zhao: *A new master student!*
 
-## What courses have I taken? 
+## What key courses have I taken? 
 | **Course No.** |     **Description**    | **My Comment** |
 |----------------|------------------------|----------------|
 | STAT 406       | Statistical learning   | :wink:         |
@@ -41,4 +41,4 @@ Kathy Zhao: *A new master student!*
     More importantly, when I uploaded only the rmd and md files, the figure could not display properly. It seems all my generated figures are missing. I looked for it in the website, and find [this one](https://github.com/STAT540-UBC/Discussion/issues/11) is particularly useful for my situation. I follow the instructions and upload the generated figures and it finally works.
 
 ## Why am I making this file?
-This file serves as HW1 of [STAT545](http://stat545.com)
+This file serves as part of HW1 of [STAT545](http://stat545.com)
