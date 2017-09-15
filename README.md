@@ -34,10 +34,10 @@ Kathy Zhao: *A new master student!*
   + Did you edit in the browser at github.com?
     * Yes! Locate to the file in github and click the edit button on the up-right corner.
   + Did you pull, edit locally, save, commit, push to github.com?
-    * Yes!
-  + How did it all work for the R Markdown document?
-
-    + Reflect on what was hard/easy, problems you solved, helpful tutorials you read, etc. 
+    * Yes! I am using terminal to do this. (command like: git pull, git status, git add, git commit -m"", git push,..) Also, the button of pull/push built within R-studio is easy to use.
+  + How did it all work for the R Markdown document? 
+    * 
+  + Reflect on what was hard/easy, problems you solved, helpful tutorials you read, etc. 
 
 ## Why am I making this file?
 This file serves as HW1 of [STAT545](http://stat545.com)
