@@ -17,6 +17,7 @@ Kathy Zhao: *A new master student!*
 - #### Puppies
 
   + Yorkshire Terrier
+  + Bichon Frise
 
 <img src="https://68.media.tumblr.com/26166f7215d0bcad8eda2a2049fbf266/tumblr_ms98y4SHat1r1mr1po1_500.gif" width="200">
 <span style="color:#98f5ff">(Obtained from tumblr.com, link [here](https://www.tumblr.com/search/yorkie-gif))</span>
