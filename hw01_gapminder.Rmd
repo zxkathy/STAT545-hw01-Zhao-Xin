@@ -1,6 +1,6 @@
 ---
 title: "Gapminder Exploration"
-output: github_document
+output: rmarkdown::github_document
 ---
 ##Get the Gapminder data
 Work with some of the data from the [Gapminder project](http://www.gapminder.org). Since the package is already installed, we just need to load it, also load the package that are useful for analyzing the data.
