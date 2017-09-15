@@ -28,23 +28,6 @@ Kathy Zhao: *A new master student!*
   
   <span style="color:#98f5ff">(Obtained from gifbin.com, link [here](http://www.gifbin.com/986292))</span>
 
-- #### Movies
-
-+ Kathy's recommended movies:
-
-    * Batman
-    
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3FioOhQWHrg" frameborder="0" allowfullscreen></iframe>
-</div>
-<span style="color:#98f5ff">(Obtained from Youtube, link [here](https://www.youtube.com/watch?v=3FioOhQWHrg&t=64s))</span>
-
-    * Speed and Passion
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uisBaTkQAEs" frameborder="0" allowfullscreen></iframe>
-</div>
-<span style="color:#98f5ff">(Obtained from Youtube, link [here](https://www.youtube.com/watch?v=uisBaTkQAEs))</span>
-
 ## My Process During the Assignment
 
 - Include a description of how you got the changes into README.md on GitHub.
