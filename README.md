@@ -38,7 +38,7 @@ Kathy Zhao: *A new master student!*
   + How did it all work for the R Markdown document? 
     * I am familiar with terminal commands, so push/pull part seems easy to me. 
     When I was knitting my files in local ends, everything seems fine, but after uploading to github, some displays changes. I found that the markdown file is sensitive to whether or not there is a blank line in between two chuncks, two spaces/one space. 
-    More importantly, when I uploaded only the rmd and md files, the figure could not display properly. It seems all my generated figures are missing. I looked for it in the website, and find this [one](https://github.com/STAT540-UBC/Discussion/issues/11) is particularly useful for my situation. I follow the instructions and upload the generated figures and it finally works.
+    More importantly, when I uploaded only the rmd and md files, the figure could not display properly. It seems all my generated figures are missing. I looked for it in the website, and find [this one](https://github.com/STAT540-UBC/Discussion/issues/11) is particularly useful for my situation. I follow the instructions and upload the generated figures and it finally works.
 
 ## Why am I making this file?
 This file serves as HW1 of [STAT545](http://stat545.com)
