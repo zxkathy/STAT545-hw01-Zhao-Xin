@@ -28,7 +28,7 @@ Kathy Zhao: *A new master student!*
 
 <span style="color:#98f5ff">(Obtained from gifbin.com, link [here](http://www.gifbin.com/986292))</span>
 
-####- Movies
+- #### Movies
 
   + Kathy's recommended movies:
     * Batman
