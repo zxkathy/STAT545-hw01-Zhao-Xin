@@ -1,0 +1,59 @@
+---
+title: "Gapminder Exploration"
+output: 
+  github_document
+---
+##Get the Gapminder data
+Work with some of the data from the [Gapminder project](http://www.gapminder.org). Since the package is already installed, we just need to load it, also load the package that are useful for analyzing the data.
+
+```{r}
+library(gapminder)
+library(tidyverse)
+library(ggplot2)
+```
+
+
+Have a look at the data:
+```{r}
+glimpse(gapminder)
+dim(gapminder)
+```
+
+Explore the variable *"pop"*
+```{r, fig.width=12, fig.height=6}
+min(gapminder$pop)
+max(gapminder$pop)
+ggplot(gapminder, aes(y = pop)) + geom_boxplot(aes(x = factor(1))) +  facet_wrap(~continent, scales = "free")
+```
+
+Because gapminder has too much info, in my work, I just extract the data that belong to the continent of Asia, and variables *"country"*, *"year"*, and *"pop"*.
+```{r}
+gDat <- gapminder[gapminder$continent == "Asia", c("country", "year", "pop")]
+str(gDat)
+```
+
+Plot annual population for different countries in Asia 
+```{r, fig.width=12, fig.height=5}
+ggplot(gDat, aes(x = year, y = pop)) + geom_point(aes(color = country)) 
+```
+
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
