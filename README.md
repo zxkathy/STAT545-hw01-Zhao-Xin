@@ -2,7 +2,6 @@
 
 Welcome to my repo! Hope you enjoy it!
 
-#This change is made in my local laptop
 ## Who Am I?
 Kathy Zhao: *A new master student!*
 
