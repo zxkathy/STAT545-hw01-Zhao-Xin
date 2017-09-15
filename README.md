@@ -32,7 +32,7 @@ Kathy Zhao: *A new master student!*
 
 - Include a description of how you got the changes into README.md on GitHub.
   + Did you edit in the browser at github.com?
-    * Yes! 
+    * Yes! Locate to the file in github and click the edit button on the up-right corner.
   + Did you pull, edit locally, save, commit, push to github.com?
     * Yes!
   + How did it all work for the R Markdown document?
