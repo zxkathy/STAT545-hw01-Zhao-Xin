@@ -14,7 +14,7 @@ Kathy Zhao: *A new master student!*
 | STAT 460       | Statistical inference  | :frowning:     |
 
 ## What Do I like?
-- Puppies
+- ####Puppies
 
   + Yorkshire Terrier
 
