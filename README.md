@@ -1,6 +1,5 @@
 ---
 title: "STAT545-hw01-Zhao-Xin"
-output: github_document
 ---
 
 Welcome to my repo! Hope you enjoy it!
