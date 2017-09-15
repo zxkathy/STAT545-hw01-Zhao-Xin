@@ -80,7 +80,7 @@ str(gDat)
     ##  $ year   : int  1952 1957 1962 1967 1972 1977 1982 1987 1992 1997 ...
     ##  $ pop    : int  8425333 9240934 10267083 11537966 13079460 14880372 12881816 13867957 16317921 22227415 ...
 
-plot annual population for Asia
+Plot annual population for different countries in Asia
 
 ``` r
 ggplot(gDat, aes(x = year, y = pop)) + geom_point(aes(color = country)) 
