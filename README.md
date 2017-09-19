@@ -43,5 +43,5 @@ Kathy Zhao: *A new master student!*
 ## Why am I making this file?
 This file serves as part of HW1 of [STAT545](http://stat545.com)
 
-##Link to Gapminder Data Exploration
+## Link to Gapminder Data Exploration
 Please click [here](https://github.com/zxkathy/STAT545-hw01-Zhao-Xin/blob/master/hw01_gapminder.md)
